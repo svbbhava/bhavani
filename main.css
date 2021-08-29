@@ -1,0 +1,64 @@
+
+h1{
+	text-shadow:2px 2px 5px white;
+	font-family:fantasy;
+}
+body{
+	background-image:linear-gradient(hotpink,darkorchid)
+}
+
+a{
+	text-decoration:none;
+}
+
+a:visited{
+	color:white;
+	
+}
+
+a:hover{
+	color:lime;
+}
+
+a:active{
+	color:darkviolet;
+}
+
+li{
+	display:inline;
+	padding:2%;
+}
+
+.position{
+	
+	font-size:18;
+	text-align:right; 	
+}
+
+.img{
+ float:left;
+ padding-right:20px;
+ 
+ width:25%;
+}
+
+.content{
+	font-size:150%;
+	
+}
+
+.footer{
+	font-size:200%;
+	text-align:center;
+	padding:70px;
+}
+
+.fol{
+	font-size:150%;
+    padding-right:20px;
+}
+
+
+
+
+
